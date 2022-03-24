@@ -8,4 +8,4 @@ totalHors = totalMinutes//60
 currentHour = totalHors%24
 print("Current time is",currentHour,\
       ":",currentMinute,":",currentSecond,"GMT")
-#haha
+#hahahaha
